@@ -1,0 +1,390 @@
+.zoi-chat {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 10000;
+  font-family: inherit;
+  color: #243047;
+  font-size: 14px;
+  line-height: 1.55;
+}
+.zoi-chat button, .zoi-chat textarea, .zoi-chat select {
+  font: inherit;
+}
+.zoi-chat button {
+  cursor: pointer;
+}
+.zoi-chat button:disabled {
+  opacity: .55;
+  cursor: not-allowed;
+}
+.zoi-chat button:focus-visible, .zoi-chat a:focus-visible, .zoi-chat select:focus-visible, .zoi-chat textarea:focus-visible {
+  outline: 3px solid #a78bfa;
+  outline-offset: 3px;
+}
+.zoi-chat-launcher {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  border-radius: 999px;
+  padding: 14px 20px;
+  background: #5b36ac;
+  color: white;
+  box-shadow: 0 6px 24px #38236a30;
+}
+.zoi-chat-launcher svg {
+  width: 22px;
+  height: 22px;
+}
+.zoi-chat-panel {
+  width: min(390px, calc(100vw - 32px));
+  max-height: min(710px, calc(100dvh - 110px));
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+  overflow: hidden;
+  background: white;
+  border: 1px solid #e5deef;
+  border-radius: 20px;
+  box-shadow: 0 16px 64px #20113626;
+}
+.zoi-chat-header {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 20px;
+  background: #5b36ac;
+  color: #fff;
+}
+.zoi-chat-header strong {
+  font-size: 18px;
+}
+.zoi-chat-header p {
+  margin: 3px 0 0;
+  font-size: 12px;
+  color: #eee5ff;
+}
+.zoi-chat-actions {
+  display: flex;
+  gap: 8px;
+}
+.zoi-chat-actions button {
+  border: 0;
+  background: transparent;
+  color: white;
+  padding: 8px;
+  font-size: 18px;
+}
+.zoi-chat-language {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 18px;
+  border-bottom: 1px solid #eeeaf4;
+}
+.zoi-chat-language select {
+  border: 1px solid #ddd5eb;
+  border-radius: 8px;
+  padding: 5px 8px;
+  background: white;
+}
+.zoi-chat-log {
+  flex: 1 1 auto;
+  min-height: 90px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 16px;
+  background: #faf9fd;
+}
+.zoi-chat-message {
+  max-width: 92%;
+  width: fit-content;
+  border-radius: 13px;
+  margin-bottom: 12px;
+  padding: 10px 13px;
+  background: #fff;
+  border: 1px solid #eeeaf4;
+  overflow-wrap: anywhere;
+}
+.zoi-chat-message.user {
+  margin-left: auto;
+  background: #ede6fb;
+  border-color: #e0d4f5;
+}
+.zoi-chat-message small {
+  display: block;
+  margin-bottom: 3px;
+  color: #655980;
+  font-weight: 600;
+}
+.zoi-chat-message p {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.zoi-chat-markdown > * + * {
+  margin-top: 8px;
+}
+.zoi-chat-markdown > * + p {
+  margin-top: 14px;
+}
+.zoi-chat-markdown ul, .zoi-chat-markdown ol {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+.zoi-chat-markdown ul {
+  list-style: disc;
+}
+.zoi-chat-markdown ol {
+  list-style: decimal;
+}
+.zoi-chat-markdown li + li {
+  margin-top: 4px;
+}
+.zoi-chat-markdown strong {
+  font-weight: 700;
+}
+.zoi-chat-markdown a {
+  color: #5b36ac;
+  text-decoration: underline;
+}
+.zoi-chat-markdown code {
+  padding: 1px 4px;
+  border-radius: 4px;
+  background: #f0ebf8;
+  font-size: .9em;
+  white-space: pre-wrap;
+}
+.zoi-chat-thinking {
+  margin: 8px 0;
+  color: #655980;
+}
+.zoi-chat-error {
+  margin: 8px 0;
+  color: #9f283b;
+}
+.zoi-chat-prompts {
+  flex-shrink: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 12px 16px;
+}
+.zoi-chat-prompts button {
+  text-align: left;
+  border: 1px solid #e1d6f1;
+  border-radius: 12px;
+  padding: 6px 10px;
+  background: #fff;
+  color: #563b85;
+  font-size: 12px;
+}
+.zoi-chat-links {
+  flex-shrink: 0;
+  display: flex;
+  gap: 16px;
+  padding: 8px 18px;
+  border-top: 1px solid #eeeaf4;
+  font-size: 12px;
+}
+.zoi-chat-links a {
+  color: #5b36ac;
+  text-decoration: underline;
+}
+.zoi-chat-links {
+  flex-wrap: wrap;
+  gap: 6px 14px;
+}
+.zoi-chat-links button {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #5b36ac;
+  text-decoration: underline;
+}
+.zoi-chat-booking {
+  padding: 16px;
+  margin-top: 16px;
+  border: 1px solid #ddd0f3;
+  border-radius: 14px;
+  background: #fff;
+}
+.zoi-chat-booking p {
+  margin: 6px 0 10px;
+}
+.zoi-chat-booking h3 {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 8px 0;
+}
+.zoi-chat-booking button {
+  min-width: 0;
+  min-height: 44px;
+  padding: 10px 12px;
+  border: 1px solid #ddd0f3;
+  border-radius: 10px;
+  background: #f8f5fd;
+  color: #51318f;
+  margin: 0;
+  line-height: 1.4;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.zoi-chat-booking button:not(:disabled):hover {
+  background: #eee6fa;
+  border-color: #bda4e4;
+}
+.zoi-chat-booking-choices {
+  display: grid;
+  gap: 10px;
+  margin-top: 12px;
+}
+.zoi-chat-booking-choices button {
+  width: 100%;
+  padding: 12px 14px;
+  text-align: left;
+}
+.zoi-chat-booking-choices span {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: #686274;
+}
+.zoi-chat-booking-times {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+.zoi-chat-booking-times button {
+  padding: 10px 6px;
+  font-variant-numeric: tabular-nums;
+}
+.zoi-chat-booking-actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #eee8f5;
+}
+.zoi-chat-booking-actions button {
+  font-size: 12px;
+  background: #fff;
+}
+.zoi-chat-booking label {
+  display: block;
+  margin: 8px 0;
+  font-weight: 600;
+}
+.zoi-chat-booking input {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  border: 1px solid #cfc2e6;
+  border-radius: 8px;
+  padding: 8px;
+  margin-top: 4px;
+  font: inherit;
+  font-weight: 400;
+}
+.zoi-chat-booking input:focus-visible {
+  outline: 3px solid #a78bfa;
+  outline-offset: 2px;
+}
+.zoi-chat-booking dl {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 4px 10px;
+}
+.zoi-chat-booking dt {
+  font-weight: 600;
+}
+.zoi-chat-booking dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+.zoi-chat-booking .zoi-chat-booking-confirm {
+  display: block;
+  width: 100%;
+  margin-top: 16px;
+  padding: 12px 16px;
+  background: #5b36ac;
+  border-color: #5b36ac;
+  color: #fff;
+  font-weight: 600;
+}
+.zoi-chat-booking .zoi-chat-booking-confirm:not(:disabled):hover {
+  background: #48288f;
+  border-color: #48288f;
+}
+.zoi-chat-booking .zoi-chat-booking-discard {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  background: transparent;
+  border-color: transparent;
+  color: #786c88;
+  font-size: 12px;
+}
+.zoi-chat-booking .zoi-chat-booking-hint {
+  font-size: 11px;
+  color: #686274;
+}
+.zoi-chat-compose {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 14px;
+}
+.zoi-chat-compose textarea {
+  flex: 1;
+  min-width: 0;
+  resize: none;
+  border: 1px solid #ddd5eb;
+  border-radius: 12px;
+  padding: 10px 12px;
+  background: white;
+}
+.zoi-chat-compose button {
+  border: 0;
+  border-radius: 12px;
+  padding: 13px;
+  background: #5b36ac;
+  color: #fff;
+}
+.zoi-chat-footer {
+  flex-shrink: 0;
+  padding: 8px 16px 12px;
+  font-size: 10px;
+  line-height: 1.45;
+  color: #686274;
+}
+.zoi-chat-footer p {
+  margin: 2px 0;
+}
+@media (max-width: 480px) {
+  .zoi-chat {
+    right: 12px;
+    bottom: 12px;
+  }
+  .zoi-chat-panel {
+    width: calc(100vw - 24px);
+    max-height: calc(100dvh - 90px);
+  }
+  .zoi-chat-header {
+    padding: 12px 16px;
+  }
+  .zoi-chat-prompts {
+    padding: 8px 12px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .zoi-chat * {
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,365 @@
+[
+  {
+    "id": 1,
+    "name": "Common Cold",
+    "symptoms": ["Runny nose", "Sore throat", "Cough", "Mild fever", "Fatigue"],
+    "home_remedies": [
+      "Drink plenty of fluids",
+      "Gargle with warm salt water",
+      "Use honey and lemon tea",
+      "Rest and avoid stress",
+      "Use steam inhalation for congestion"
+    ],
+    "video_url": "https://www.youtube.com/embed/OzAe-J9tJXw?si=_MwXecMJYXTnEjmr"
+  },
+  {
+    "id": 2,
+    "name": "Flu (Influenza)",
+    "symptoms": [
+      "High fever",
+      "Chills",
+      "Muscle aches",
+      "Fatigue",
+      "Cough",
+      "Sore throat"
+    ],
+    "home_remedies": [
+      "Stay hydrated with warm fluids",
+      "Rest in a warm environment",
+      "Take over-the-counter medications for fever",
+      "Honey and ginger tea for soothing throat",
+      "Steam inhalation for congestion"
+    ],
+    "video_url": "https://www.youtube.com/embed/0P0eBkPvyfY?si=M_pi1fY372On2wQQ"
+  },
+  {
+    "id": 3,
+    "name": "Migraine",
+    "symptoms": [
+      "Pain in the head or neck",
+      "Sensitivity to light or sound",
+      "Nausea",
+      "Vomiting"
+    ],
+    "home_remedies": [
+      "Apply a cold pack to the forehead",
+      "Drink plenty of water",
+      "Rest in a quiet, dark room",
+      "Use peppermint oil for relief",
+      "Try relaxation techniques like meditation"
+    ],
+    "video_url": "https://www.youtube.com/embed/55w2yLrw4BE?si=mQvxKRmEJsgcr8Ah"
+  },
+  {
+    "id": 4,
+    "name": "Allergies",
+    "symptoms": [
+      "Sneezing",
+      "Runny or stuffy nose",
+      "Itchy eyes, nose, or mouth",
+      "Watery eyes",
+      "Rashes"
+    ],
+    "home_remedies": [
+      "Avoid allergens",
+      "Use saline nasal rinses",
+      "Keep windows closed during high pollen seasons",
+      "Apply a cool compress to eyes",
+      "Use over-the-counter antihistamines"
+    ],
+    "video_url": "https://www.youtube.com/embed/llZFx8n-WCQ?si=UhMA5t7MNotCgDnp"
+  },
+  {
+    "id": 5,
+    "name": "Acne",
+    "symptoms": [
+      "Pimples on face, back, or chest",
+      "Blackheads and whiteheads",
+      "Red, inflamed bumps",
+      "Cysts or nodules"
+    ],
+    "home_remedies": [
+      "Wash face twice daily with a mild cleanser",
+      "Avoid touching your face",
+      "Use non-comedogenic products",
+      "Apply tea tree oil for spot treatment",
+      "Maintain a diet low in processed foods"
+    ],
+    "video_url": "https://www.youtube.com/embed/IlgigbOfLIg?si=2LehSNLqXgltVLn6"
+  },
+  {
+    "id": 6,
+    "name": "Diarrhea",
+    "symptoms": [
+      "Frequent loose or watery stools",
+      "Abdominal pain or cramps",
+      "Bloating",
+      "Dehydration"
+    ],
+    "home_remedies": [
+      "Drink plenty of fluids, especially electrolytes",
+      "Eat bland foods like rice, bananas, applesauce",
+      "Avoid dairy, fatty, and spicy foods",
+      "Use probiotics to restore gut flora",
+      "Rest and avoid stress"
+    ],
+    "video_url": "https://www.youtube.com/embed/lvNLxwgAKZ0?si=b97LqAfPvndQ5hlL"
+  },
+  {
+    "id": 7,
+    "name": "Constipation",
+    "symptoms": [
+      "Fewer than three bowel movements per week",
+      "Hard, dry stools",
+      "Straining or pain during bowel movements",
+      "Feeling of incomplete evacuation"
+    ],
+    "home_remedies": [
+      "Increase fiber intake",
+      "Drink plenty of water",
+      "Exercise regularly",
+      "Try natural laxatives like prunes",
+      "Establish a regular bathroom routine"
+    ],
+    "video_url": "https://www.youtube.com/embed/hJGlJKEkldQ?si=RkOQxOmwDMFhKhI1"
+  },
+  {
+    "id": 8,
+    "name": "Insomnia",
+    "symptoms": [
+      "Difficulty falling asleep",
+      "Waking up often during the night",
+      "Waking up too early and not being able to get back to sleep",
+      "Daytime fatigue or sleepiness"
+    ],
+    "home_remedies": [
+      "Stick to a sleep schedule",
+      "Create a bedtime ritual",
+      "Avoid caffeine and electronics before bed",
+      "Use lavender oil or chamomile tea",
+      "Ensure your bedroom is cool, dark, and quiet"
+    ],
+    "video_url": "https://www.youtube.com/embed/gIwU5INBV_0?si=9mHhxMnLV1Ob77CU"
+  },
+  {
+    "id": 9,
+    "name": "Back Pain",
+    "symptoms": [
+      "Ache or pain in the back",
+      "Muscle spasms",
+      "Stiffness",
+      "Pain that may radiate down the legs"
+    ],
+    "home_remedies": [
+      "Apply heat or cold packs",
+      "Maintain good posture",
+      "Do gentle stretching exercises",
+      "Use ergonomic chairs or mattresses",
+      "Consider over-the-counter pain relief"
+    ],
+    "video_url": "https://www.youtube.com/embed/LQBGhqN5Qds?si=hUf-pBH2KhqeykvY"
+  },
+  {
+    "id": 10,
+    "name": "Sinusitis",
+    "symptoms": [
+      "Nasal congestion",
+      "Thick, yellow or green mucus",
+      "Pain around the nose, cheeks, and forehead",
+      "Loss of smell",
+      "Ear pressure"
+    ],
+    "home_remedies": [
+      "Use a humidifier",
+      "Drink plenty of fluids",
+      "Apply warm compresses",
+      "Rinse sinuses with saline solution",
+      "Elevate head while sleeping"
+    ],
+    "video_url": "https://www.youtube.com/embed/cEsYpfXidRo?si=gDQD7z4Z1tuZKNs0"
+  },
+  {
+    "id": 11,
+    "name": "Ear Infection",
+    "symptoms": [
+      "Ear pain",
+      "Feeling of fullness in the ear",
+      "Hearing loss",
+      "Dizziness",
+      "Fever"
+    ],
+    "home_remedies": [
+      "Apply a warm compress",
+      "Use over-the-counter pain relievers",
+      "Stay hydrated",
+      "Avoid getting water in the ear",
+      "Rest to help the body fight infection"
+    ],
+    "video_url": "https://www.youtube.com/embed/awWbvBTntOs?si=OFbh_l2tWW45f6a5"
+  },
+  {
+    "id": 12,
+    "name": "Heartburn",
+    "symptoms": [
+      "Burning feeling in the chest",
+      "Sour taste in mouth",
+      "Bloating",
+      "Burping"
+    ],
+    "home_remedies": [
+      "Avoid spicy, fatty, or acidic foods",
+      "Eat smaller, more frequent meals",
+      "Chew gum to increase saliva production",
+      "Drink ginger tea",
+      "Raise the head of your bed"
+    ],
+    "video_url": "https://www.youtube.com/embed/islwkOxA0wI?si=O83L-nFX-vGlVAhH"
+  },
+  {
+    "id": 13,
+    "name": "Anxiety",
+    "symptoms": [
+      "Excessive worry",
+      "Feeling restless or on edge",
+      "Fatigue",
+      "Irritability",
+      "Difficulty concentrating"
+    ],
+    "home_remedies": [
+      "Practice deep breathing exercises",
+      "Engage in regular physical activity",
+      "Limit caffeine and alcohol",
+      "Use mindfulness or meditation",
+      "Establish a routine to reduce unpredictability"
+    ],
+    "video_url": "https://www.youtube.com/embed/9mPwQTiMSj8?si=BfI0hLBdEHas8JhO"
+  },
+  {
+    "id": 14,
+    "name": "Depression",
+    "symptoms": [
+      "Persistent sad, anxious, or empty mood",
+      "Loss of interest or pleasure in activities",
+      "Fatigue or decreased energy",
+      "Feelings of worthlessness or guilt",
+      "Thoughts of death or suicide"
+    ],
+    "home_remedies": [
+      "Regular physical activity",
+      "Ensure good sleep hygiene",
+      "Eat a balanced diet",
+      "Engage in social activities",
+      "Consider light therapy if seasonal"
+    ],
+    "video_url": "https://www.youtube.com/embed/9ChIGOLOjN0?si=kG8xuxWesJ776g1_"
+  },
+  {
+    "id": 15,
+    "name": "Bloating",
+    "symptoms": [
+      "Feeling of fullness or tightness in the abdomen",
+      "Abdominal distension",
+      "Gas",
+      "Pain or discomfort"
+    ],
+    "home_remedies": [
+      "Eat slowly and chew thoroughly",
+      "Avoid carbonated drinks",
+      "Incorporate probiotics into your diet",
+      "Use peppermint or ginger tea",
+      "Limit salt intake"
+    ],
+    "video_url": "https://www.youtube.com/embed/mEXLWJ-mIgk?si=HBdFZ4s1TAnUr445"
+  },
+  {
+    "id": 16,
+    "name": "Dry Skin",
+    "symptoms": [
+      "Rough, scaly skin",
+      "Itching",
+      "Redness",
+      "Cracks in the skin",
+      "Tightness"
+    ],
+    "home_remedies": [
+      "Use gentle, fragrance-free cleansers",
+      "Apply moisturizer immediately after bathing",
+      "Avoid hot showers",
+      "Use a humidifier at home",
+      "Drink plenty of water"
+    ],
+    "video_url": "https://www.youtube.com/embed/b8fg1v64evs?si=KyNU0K7ozsrhg_sM"
+  },
+  {
+    "id": 17,
+    "name": "Dandruff",
+    "symptoms": [
+      "White flakes on scalp and in hair",
+      "Itchy scalp",
+      "Red and greasy patches of skin",
+      "Dryness"
+    ],
+    "home_remedies": [
+      "Use anti-dandruff shampoo regularly",
+      "Avoid scratching the scalp",
+      "Tea tree oil can be beneficial",
+      "Maintain good hair hygiene",
+      "Reduce stress levels"
+    ],
+    "video_url": "https://www.youtube.com/embed/5Z06eSMTuNM?si=Q0h8jezZ0diOdZPR"
+  },
+  {
+    "id": 18,
+    "name": "Toothache",
+    "symptoms": [
+      "Sharp, throbbing pain in teeth",
+      "Sensitivity to temperature",
+      "Swelling around the tooth or jaw",
+      "Bad breath or taste"
+    ],
+    "home_remedies": [
+      "Rinse mouth with salt water",
+      "Use clove oil for pain relief",
+      "Avoid very hot or cold foods",
+      "Apply ice or a cold compress",
+      "Chew on the opposite side"
+    ],
+    "video_url": "https://www.youtube.com/embed/9tN_yfaQDmY?si=kHZGSpLEt_yMyR_H"
+  },
+  {
+    "id": 19,
+    "name": "Nausea",
+    "symptoms": [
+      "Feeling of sickness in the stomach",
+      "Urge to vomit",
+      "Sweating",
+      "Dizziness",
+      "Increased saliva production"
+    ],
+    "home_remedies": [
+      "Ginger tea or candies",
+      "Small, frequent meals",
+      "Stay hydrated with small sips",
+      "Peppermint aroma or tea",
+      "Acupressure wristbands"
+    ],
+    "video_url": "https://www.youtube.com/embed/9YwwEHG_Z6Q?si=KEyW7DGAIY_CjFrL"
+  },
+  {
+    "id": 20,
+    "name": "Bronchitis",
+    "symptoms": [
+      "Cough with mucus",
+      "Chest discomfort",
+      "Fatigue",
+      "Slight fever",
+      "Shortness of breath"
+    ],
+    "home_remedies": [
+      "Drink warm fluids",
+      "Use a humidifier or steam",
+      "Avoid irritants like smoke"
+    ],
+    "video_url": "https://www.youtube.com/embed/NrS8BIDlSCo?si=UeVUWcV-JhX8DWcb"
+  }
+]

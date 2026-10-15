@@ -1,0 +1,306 @@
+.zoi-documents {
+  max-width: 1320px;
+  margin: auto;
+  padding: 64px 24px 88px;
+  color: #27243b;
+}
+.zoi-doc-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.zoi-doc-heading>svg {
+  font-size: 64px;
+  color: #8062be;
+}
+.zoi-doc-heading h1 {
+  font-size: clamp(28px,4vw,44px);
+  line-height: 1.2;
+  margin: 12px 0;
+}
+.zoi-doc-eyebrow {
+  color: #7550ad;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+.zoi-doc-card {
+  background: #fff;
+  border: 1px solid #e8e3ef;
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 6px 26px #30204706;
+}
+.zoi-doc-card h2 {
+  font-size: 21px;
+  font-weight: 600;
+}
+.zoi-doc-card h3 {
+  font-size: 17px;
+  font-weight: 600;
+}
+.zoi-doc-muted,.zoi-doc-heading p {
+  color: #676174;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.zoi-doc-upload-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 22px;
+}
+.zoi-doc-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  padding: 11px 18px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+}
+.zoi-doc-button-primary {
+  background: #7753b2;
+  color: white;
+}
+.zoi-doc-button-secondary {
+  background: #f5f1fb;
+  color: #664391;
+  border-color: #e3d9f2;
+}
+.zoi-doc-button-muted {
+  background: transparent;
+  color: #67577e;
+}
+.zoi-doc-button:hover {
+  filter: brightness(.96);
+}
+.zoi-doc-button:focus-visible,.zoi-doc-field input:focus-visible,.zoi-doc-field textarea:focus-visible {
+  outline: 3px solid #bca3e4;
+  outline-offset: 3px;
+}
+.zoi-doc-button:disabled,.zoi-doc-disabled {
+  opacity: .55;
+  cursor: not-allowed;
+}
+.zoi-doc-button input[type=file] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+.zoi-doc-button:focus-within {
+  outline: 3px solid #bca3e4;
+  outline-offset: 3px;
+}
+.zoi-doc-filename {
+  overflow-wrap: anywhere;
+  margin-top: 16px;
+  font-size: 14px;
+}
+.zoi-doc-consent,.zoi-doc-review {
+  margin-top: 22px;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f8f5fc;
+}
+.zoi-doc-consent label,.zoi-doc-review>label {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.zoi-doc-consent input,.zoi-doc-review input {
+  margin-top: 5px;
+  accent-color: #7753b2;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.zoi-doc-consent p,.zoi-doc-review p {
+  font-size: 13px;
+  line-height: 1.7;
+  margin: 12px 0;
+  color: #676174;
+}
+.zoi-doc-consent button,.zoi-doc-review button {
+  margin: 10px 10px 0 0;
+}
+.zoi-doc-workbench {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) minmax(0,1.25fr);
+  gap: 24px;
+  margin-top: 24px;
+  align-items: start;
+}
+.zoi-doc-preview {
+  position: sticky;
+  top: 110px;
+}
+.zoi-doc-preview img {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+}
+.zoi-doc-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.zoi-doc-section-heading>span {
+  font-size: 13px;
+  color: #777;
+}
+.zoi-doc-fields {
+  display: grid;
+  gap: 20px;
+}
+.zoi-doc-field {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-width: 0;
+  font-size: 14px;
+}
+.zoi-doc-field>span {
+  font-weight: 600;
+}
+.zoi-doc-field input,.zoi-doc-field textarea {
+  width: 100%;
+  border: 1px solid #dcd5e5;
+  border-radius: 9px;
+  padding: 11px 12px;
+  background: white;
+  color: #27243b;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.zoi-doc-field textarea {
+  resize: vertical;
+  overflow: auto;
+  overscroll-behavior: contain;
+}
+.zoi-doc-field input:read-only,.zoi-doc-field textarea:read-only {
+  background: #faf9fc;
+}
+.zoi-doc-field-grid {
+  display: grid;
+  grid-template-columns: repeat(2,minmax(0,1fr));
+  gap: 16px;
+}
+.zoi-doc-flag {
+  display: inline-block;
+  background: #fff0cc;
+  color: #7d5700;
+  font-size: 11px;
+  font-weight: 500;
+  border-radius: 5px;
+  padding: 3px 6px;
+  margin-left: 5px;
+}
+.zoi-doc-medicine {
+  border: 1px solid #e8e3ef;
+  border-radius: 12px;
+  padding: 20px;
+  display: grid;
+  gap: 16px;
+}
+.zoi-doc-medicine legend {
+  padding: 0 8px;
+  color: #7753b2;
+  font-weight: 600;
+}
+.zoi-doc-alert {
+  background: #fff8e8;
+  color: #72551d;
+  border-radius: 12px;
+  padding: 16px 20px;
+  line-height: 1.7;
+  margin: 20px 0;
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+.zoi-doc-alert ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+.zoi-doc-alert-error {
+  background: #fff0f0;
+  color: #993c3c;
+}
+.zoi-doc-alert-success {
+  background: #edf8f1;
+  color: #276644;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.zoi-doc-empty {
+  padding: 28px 0;
+  color: #777080;
+  font-size: 14px;
+}
+.zoi-doc-saved-list article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 0;
+  border-top: 1px solid #eee8f4;
+}
+.zoi-doc-saved-list h3 {
+  overflow-wrap: anywhere;
+}
+.zoi-doc-saved-list p {
+  font-size: 13px;
+  color: #777080;
+  margin-top: 8px;
+}
+.zoi-doc-saved-list button {
+  flex-shrink: 0;
+}
+@media(max-width:850px) {
+  .zoi-doc-workbench {
+    grid-template-columns: 1fr;
+  }
+  .zoi-doc-preview {
+    position: static;
+  }
+  .zoi-doc-preview img {
+    max-height: 650px;
+    object-fit: contain;
+  }
+  .zoi-documents {
+    padding: 32px 16px 60px;
+  }
+  .zoi-doc-card {
+    padding: 20px;
+  }
+  .zoi-doc-heading>svg {
+    display: none;
+  }
+}
+@media(max-width:500px) {
+  .zoi-doc-field-grid {
+    grid-template-columns: 1fr;
+  }
+  .zoi-doc-saved-list article {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .zoi-doc-section-heading {
+    flex-wrap: wrap;
+  }
+}

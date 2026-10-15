@@ -1,0 +1,307 @@
+.doctor-page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+  color: #334155;
+}
+.doctor-page-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+  padding: 24px;
+  border-radius: 16px;
+  background: linear-gradient(110deg, #0891b2, #2563eb);
+  color: white;
+  box-shadow: 0 6px 20px #0891b215;
+}
+.doctor-page-heading h1 {
+  font-size: clamp(24px, 3vw, 30px);
+  line-height: 1.3;
+  font-weight: 700;
+}
+.doctor-page-heading p {
+  color: #e0f2fe;
+  margin-top: 6px;
+  font-size: 14px;
+}
+.doctor-surface {
+  background: white;
+  border: 1px solid #e8edf4;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 4px 18px #0f172a05;
+}
+.doctor-section-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.doctor-section-heading h2 {
+  font-weight: 700;
+  font-size: 20px;
+  color: #1e293b;
+}
+.doctor-button {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color .15s, border-color .15s;
+}
+.doctor-button:disabled {
+  opacity: .55;
+  cursor: wait;
+}
+.doctor-button-primary {
+  background: #2563eb;
+  color: white;
+}
+.doctor-button-primary:hover:not(:disabled) {
+  background: #1d4ed8;
+}
+.doctor-button-secondary {
+  background: white;
+  color: #334155;
+  border-color: #dce3ed;
+}
+.doctor-button-secondary:hover:not(:disabled) {
+  background: #f1f5f9;
+}
+.doctor-button-approve {
+  background: #ecfdf5;
+  color: #047857;
+  border-color: #a7f3d0;
+}
+.doctor-button-approve:hover:not(:disabled) {
+  background: #d1fae5;
+}
+.doctor-button-reject {
+  background: #fff1f2;
+  color: #be123c;
+  border-color: #fecdd3;
+}
+.doctor-button-reject:hover:not(:disabled) {
+  background: #ffe4e6;
+}
+.doctor-workspace button:focus-visible, .doctor-workspace a:focus-visible, .doctor-workspace input:focus-visible, .doctor-workspace select:focus-visible {
+  outline: 3px solid #60a5fa;
+  outline-offset: 3px;
+}
+.doctor-alert {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+.doctor-alert-error {
+  background: #fff1f2;
+  border-color: #fecdd3;
+  color: #9f1239;
+}
+.doctor-alert-success {
+  background: #ecfdf5;
+  border-color: #a7f3d0;
+  color: #065f46;
+}
+.doctor-loading {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  color: #64748b;
+}
+.doctor-spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid #dbeafe;
+  border-top-color: #2563eb;
+  border-radius: 50%;
+  animation: doctor-spin .8s linear infinite;
+}
+@keyframes doctor-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.doctor-empty {
+  padding: 36px 20px;
+  text-align: center;
+  border: 1px dashed #cbd5e1;
+  border-radius: 14px;
+  background: #f8fafc;
+  color: #64748b;
+}
+.doctor-empty > svg {
+  margin: 0 auto 12px;
+  width: 28px;
+  height: 28px;
+  color: #94a3b8;
+}
+.doctor-empty h3 {
+  color: #334155;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.doctor-empty p {
+  font-size: 14px;
+  max-width: 440px;
+  margin: 0 auto;
+}
+.doctor-appointment-card {
+  padding: 20px;
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+}
+.doctor-avatar {
+  display: flex;
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  background: #e0f2fe;
+  color: #0369a1;
+  font-weight: 700;
+}
+.doctor-status {
+  display: inline-flex;
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  background: #f1f5f9;
+  color: #475569;
+}
+.doctor-status[data-status="Scheduled"], .doctor-status[data-status="Pending"], .doctor-status[data-status="Rescheduled"] {
+  background: #fffbeb;
+  color: #92400e;
+}
+.doctor-status[data-status="Approved"] {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+.doctor-status[data-status="Completed"] {
+  background: #ecfdf5;
+  color: #047857;
+}
+.doctor-status[data-status="Rejected"] {
+  background: #fff1f2;
+  color: #be123c;
+}
+.doctor-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid #f1f5f9;
+}
+.doctor-reject-review {
+  padding: 16px;
+  margin-top: 16px;
+  background: #fff7f8;
+  border: 1px solid #fecdd3;
+  border-radius: 10px;
+}
+.doctor-filters {
+  display: grid;
+  grid-template-columns: minmax(180px, 2fr) repeat(3, minmax(110px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.doctor-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #475569;
+}
+.doctor-field input, .doctor-field select {
+  width: 100%;
+  min-width: 0;
+  min-height: 44px;
+  padding: 10px 12px;
+  background: white;
+  border: 1px solid #d6dfeb;
+  border-radius: 10px;
+  font: inherit;
+  font-weight: 400;
+  color: #334155;
+}
+.doctor-field input[readonly] {
+  background: #f8fafc;
+}
+.doctor-detail-list {
+  display: grid;
+  gap: 16px;
+}
+.doctor-detail-list dt {
+  color: #64748b;
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+.doctor-detail-list dd {
+  margin: 0;
+  color: #334155;
+  overflow-wrap: anywhere;
+}
+.doctor-tab {
+  min-height: 44px;
+  padding: 10px 16px;
+  border-bottom: 2px solid transparent;
+  color: #64748b;
+  font-size: 14px;
+  font-weight: 600;
+}
+.doctor-tab[aria-selected="true"] {
+  border-color: #0891b2;
+  color: #0e7490;
+}
+@media (max-width: 767px) {
+  .doctor-page {
+    padding: 24px 16px 36px;
+  }
+  .doctor-surface, .doctor-page-heading {
+    padding: 20px;
+  }
+  .doctor-filters {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .doctor-filters > :first-child {
+    grid-column: 1 / -1;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .doctor-spinner {
+    animation: none;
+  }
+  .doctor-workspace * {
+    transition-duration: 0s !important;
+  }
+}

@@ -1,0 +1,6276 @@
+{
+  "hospital": "Woodlands Multispeciality Hospital \u2014 Alipore",
+  "sourceTitle": "Out Patient Doctor Directory",
+  "sourceUrl": "https://www.woodlandshospital.in/pdf/DOCTORS%20OPD%20A5.pdf",
+  "sourceFile": "DOCTORS OPD A5.pdf",
+  "sourceSha256": "60d58d90ff1b0f983d74e33eef368cf8043cc43d76b9c0c03c5730511666a88a",
+  "publicationDate": null,
+  "reviewedOn": "2026-10-15",
+  "timezone": "Asia/Kolkata",
+  "notes": "No publication date is identified in the booklet. Source metadata reflects PDF generation, not publication. These are published consultation windows, not live availability or bookable Zoi slots. Multi-day merged cells preserve their column span and require confirmation of day applicability. Blank cells do not establish doctor absence.",
+  "departments": [
+    "Cardiology",
+    "CTVS",
+    "Dental",
+    "ENT",
+    "Geriatrics",
+    "Gastroenterology",
+    "Health Checkup",
+    "Physical Medicine",
+    "General Medicine",
+    "Nephrology",
+    "General & Minimal Access Surgery",
+    "Paediatrics & Neonatology",
+    "Ophthalmology",
+    "Neurosurgery",
+    "Intervention Radiology",
+    "Rheumatology",
+    "Orthopaedics & Joint Replacement",
+    "Obs & Gynae",
+    "Oncology & Oncosurgery",
+    "Neurology",
+    "Plastic & Reconstructive Surgery",
+    "Dermatology",
+    "Critical Care (Intensivist)",
+    "Haematooncology",
+    "Endocrinology",
+    "Pulmonology",
+    "Paediatric Surgery",
+    "Paediatric Cardiology",
+    "Urology",
+    "Psychiatry & Clinical Psychology"
+  ],
+  "doctorEntries": [
+    {
+      "name": "Dr Suresh Choraria",
+      "department": "Cardiology",
+      "printedQualification": "MRCP (UK)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "8am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sunil Baran Roy",
+      "department": "Cardiology",
+      "printedQualification": "MD, DM (Cardiology), SCTIMST",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Saroj Mandal",
+      "department": "Cardiology",
+      "printedQualification": "MD (Gen Med), DM (Cardiology), FRCP (Glas), FRCP (Edin)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "4-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr A K Bradhan",
+      "department": "Cardiology",
+      "printedQualification": "Dip Card, MD",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Achyut Sarkar",
+      "department": "Cardiology",
+      "printedQualification": "MD (Dip. Card), DM (Cardiology)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr K K Sinha",
+      "department": "Cardiology",
+      "printedQualification": "Dip Card, MD (Tropical Medicine)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Avishek Saha",
+      "department": "Cardiology",
+      "printedQualification": "MD (Med), DM (Cardiol- ogy)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Chanchal Kundu",
+      "department": "Cardiology",
+      "printedQualification": "MD, DM (Card), FSCAI (US), SCT (Cardio AIIMS)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Hema Malathi Rath",
+      "department": "Cardiology",
+      "printedQualification": "MD, DM (Cardiology)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Imran Ahmed",
+      "department": "Cardiology",
+      "printedQualification": "DM (Cardiology)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pralayesh Chatterjee",
+      "department": "Cardiology",
+      "printedQualification": "Dip Card, FCCP, MD",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Bhabotosh Biswas",
+      "department": "CTVS",
+      "printedQualification": "MCh (CTVS), FRCS",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Amitava Chakraborty",
+      "department": "CTVS",
+      "printedQualification": "DNB, MCh (CTVS), MNAMS",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Indrani Guha",
+      "department": "CTVS",
+      "printedQualification": "MCh (Cardiovascular Surgery)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Santanu Dutta",
+      "department": "CTVS",
+      "printedQualification": "MCh (CTVS)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr U N Sarkar",
+      "department": "CTVS",
+      "printedQualification": "MCh (CTVS FIACS)",
+      "sourcePage": 3,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Biswaroop Mukherjee",
+      "department": "Dental",
+      "printedQualification": "BDS, MDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "3-5pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "15:00",
+              "end": "17:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Debadeep Chakravarty",
+      "department": "Dental",
+      "printedQualification": "BDS, FDSRCS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Argha Rudra",
+      "department": "Dental",
+      "printedQualification": "MDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Amir Shakil Khan",
+      "department": "Dental",
+      "printedQualification": "BDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sucheta Mukherjee",
+      "department": "Dental",
+      "printedQualification": "BDS, MDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Vanita Barai",
+      "department": "Dental",
+      "printedQualification": "BDS, MDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lt. Col (Dr) Indranil Mukhopadhyay",
+      "department": "Dental",
+      "printedQualification": "BDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Siddhratha Chatterjee",
+      "department": "Dental",
+      "printedQualification": "MDS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Santanu Banerjee",
+      "department": "ENT",
+      "printedQualification": "DLO, MS- Surg & ENT",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Anjali Ghosh",
+      "department": "ENT",
+      "printedQualification": "MS - ENT",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "8am- 12pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8am- 12pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Dhiraj Ranjan Sarkar",
+      "department": "ENT",
+      "printedQualification": "MS - ENT",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Debasis Sanyal",
+      "department": "ENT",
+      "printedQualification": "MS - ENT",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jnanabrata Roychowdhury",
+      "department": "ENT",
+      "printedQualification": "DLO, RCS, FRCS",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Mansoor Alam",
+      "department": "ENT",
+      "printedQualification": "MS, DNB, MRCS (ENT)",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr MD Samiullah",
+      "department": "ENT",
+      "printedQualification": "DLO, MCh (Otorhinolar- yngology) (UK)",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Rahul Jaiswal",
+      "department": "ENT",
+      "printedQualification": "MS (ORL- HMS)",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Saibal Das",
+      "department": "ENT",
+      "printedQualification": "MS, DNB, MRCS (Edin) DOHMS (England)",
+      "sourcePage": 4,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pandanda K Pooviah",
+      "department": "Geriatrics",
+      "printedQualification": "MRCP, CCST",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Kalyan Bose",
+      "department": "Gastroenterology",
+      "printedQualification": "MD, MRCP (UK)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "2-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Karmabir Chakravartty",
+      "department": "Gastroenterology",
+      "printedQualification": "MD, MRCP, FACIG, FASGE, FASGEI",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "12-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Anirban Chatterjee",
+      "department": "Gastroenterology",
+      "printedQualification": "MRCP (UK), FRCP (London)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Dinesh K Jothimani",
+      "department": "Gastroenterology",
+      "printedQualification": "FRCP (UK), CCT (Hepa- tology, UK)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Indrani Sen",
+      "department": "Gastroenterology",
+      "printedQualification": "FRCP (Edin)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Somnath Mukhopadhyay",
+      "department": "Gastroenterology",
+      "printedQualification": "MD, DNB, MRCP (UK), CCT - Gastro (UK)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr. Abhirup Maulik",
+      "department": "Health Checkup",
+      "printedQualification": "D. Ortho (Cal), AFIH (Mumbai)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "9-11am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "09:00",
+              "end": "11:00"
+            }
+          ]
+        },
+        {
+          "printedText": "9-11am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "09:00",
+              "end": "11:00"
+            }
+          ]
+        },
+        {
+          "printedText": "9-11am",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "09:00",
+              "end": "11:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Rizwan A Sadique",
+      "department": "Health Checkup",
+      "printedQualification": "DSM, DIH, PGDHHM",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Mouli Madhab Ghatak",
+      "department": "Physical Medicine",
+      "printedQualification": "MD (PMR)",
+      "sourcePage": 5,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Biswajit Ghoshdastidar",
+      "department": "General Medicine",
+      "printedQualification": "MD (Tropical Medicine), MRCP (UK)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "12-4pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Monimoy Ghosh",
+      "department": "General Medicine",
+      "printedQualification": "MD (Warwick-UK), FRCP (Edin & London)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "8am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Dhruba Bhattacharya",
+      "department": "General Medicine",
+      "printedQualification": "DNB",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr N S Narayan",
+      "department": "General Medicine",
+      "printedQualification": "MD, MRCP (UK)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Nirmalya Roychowdhury",
+      "department": "General Medicine",
+      "printedQualification": "M. Phil, FACP (USA)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Prasun K Mitra",
+      "department": "General Medicine",
+      "printedQualification": "PGDCC",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pushpita Mondal",
+      "department": "General Medicine",
+      "printedQualification": "MD (Medicine)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sanjeev Kr Kasera",
+      "department": "General Medicine",
+      "printedQualification": "MD (Medicine)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Satyendra N Burman",
+      "department": "General Medicine",
+      "printedQualification": "MD (PGI ), MRCP (UK), FRCP (Lond)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appoint- ment",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Soumyabrata Roychaudhuri",
+      "department": "General Medicine",
+      "printedQualification": "MRCP",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sudipta K Sen",
+      "department": "General Medicine",
+      "printedQualification": "MRCP (UK)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sujoy Roychowdhury",
+      "department": "General Medicine",
+      "printedQualification": "MD, DNB, FRCP",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Jayanta Basu",
+      "department": "Nephrology",
+      "printedQualification": "MNAMS (Gen Med)",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Lalit Kr Agarwal",
+      "department": "Nephrology",
+      "printedQualification": "MD, DM, DNB",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Dipankar Sircar",
+      "department": "Nephrology",
+      "printedQualification": "MD, DM - Nephrology",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sandipan Halder",
+      "department": "Nephrology",
+      "printedQualification": "MD, DM - Nephrology",
+      "sourcePage": 6,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Darius Anklesaria",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "FRCS",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "8am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pinaki Banerjee",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "DNB, MS, FRCS, FRCSE",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Santanu Chaudhuri",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "MS, FRCS",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sumantra Ray",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "MS, MRCS (Edin), FIAGES",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Soumitra Chandra",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "MS, FIAGES (Delhi)",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ajay Kr Pal",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "FRCS, FIAGES",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Amitabha Ghosh",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "MS (Cal), FRCS (Edin), FRCS (Glasglow)",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Sanjoy K Seal",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "DNB, FRCS, FAIS",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sumit Chaudhuri",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "MS, DNB, FRCS (UK)",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Suniti Kr Hazra",
+      "department": "General & Minimal Access Surgery",
+      "printedQualification": "DGO, MS - Surgery",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sabyasachi Das",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "MD - Paed",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm & 6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            },
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm & 6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            },
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Santanu Ray",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "MD - Paed",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pulak Koley",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "MD (Paed), MRCPCH",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Krushna Ch Das",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "MD - Paed & Neonatology",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Moumita Sinha Shah",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "DCH, MRCP, MRCPCH",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Shashi Kant Singh",
+      "department": "Paediatrics & Neonatology",
+      "printedQualification": "MD - Paed & Neonatology",
+      "sourcePage": 7,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Nandini Ray",
+      "department": "Ophthalmology",
+      "printedQualification": "FRC Ophth, MRC Ophth (London)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sougata Halder",
+      "department": "Ophthalmology",
+      "printedQualification": "DO",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Vedang Shah",
+      "department": "Ophthalmology",
+      "printedQualification": "MS, DNB, MNAMS, Fellow in Retina",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jitendra Shah",
+      "department": "Ophthalmology",
+      "printedQualification": "DO, FRCS",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ajay Agarwal",
+      "department": "Neurosurgery",
+      "printedQualification": "MS (Gen Surg), MCh - (Neuro Surgery)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Dibyendu Kr Ray",
+      "department": "Neurosurgery",
+      "printedQualification": "MS, MCh (Neuro Surgery), PGIMER",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr G K Prusty",
+      "department": "Neurosurgery",
+      "printedQualification": "MCh (Neuro Surgery)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Kaushik Sil",
+      "department": "Neurosurgery",
+      "printedQualification": "MS (Gen Surg), DNB (Neuro Surgery)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Mousam Dey",
+      "department": "Intervention Radiology",
+      "printedQualification": "MD (Radio Diagnosis), DNB - PDCC (Vascular Radiology)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Raja V Koppala",
+      "department": "Intervention Radiology",
+      "printedQualification": "MD, FRCR (England)",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Abhrajit Ray",
+      "department": "Rheumatology",
+      "printedQualification": "MD (Med), MRCP",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "10am- 2pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Arghya Chattopadhyay",
+      "department": "Rheumatology",
+      "printedQualification": "MD, DM - Clinical Immunology & Rheumatology",
+      "sourcePage": 8,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Chandra Sekhar Dhar",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "FRCS (Edin)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Goutam Saha",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS -Ortho (AIIMS)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Tapas Chakraburtty",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "Ms (Ortho), D. Ortho",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Sudipta Ghosh",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sujoy Kundu",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D. Ortho",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Subhas R Kamath",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "FRCS, MCh (Ortho) Liverpool",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Kalyan Kr Guha",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Santosh Kumar",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D. Ortho, MCH",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr S Hassan Iqbal",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MSc (London)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Amitabha Sen",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "FRCS (Edin)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Abhirup Maulik",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D. Ortho (Cal), FAFIH (Mumbai)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Tapan Sarkar",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D. Ortho, DNB(Ortho), MNAMS",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr T N Sarkar",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS, FRCS, MCh (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Subhasish Deb",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "FRCS (Edin)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Suday Mukhopadhyay",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "DTM & H, MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Saubhik Ray",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Saikat Ghosh",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sanjoy Sen",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "MS (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Abhijit Bandyopadhyay",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D. Orthopedics (Cal), M.Ch. Orthopedics (Dundee, Royal College of Surgeon, UK). FASIF (Swiss). M Sc Sports Medicine (UK). F.I.J.R (Germany)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "2 to 4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12 to 2pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Kunal Sengupta",
+      "department": "Orthopaedics & Joint Replacement",
+      "printedQualification": "D Ortho, MS (Ortho- paedic Surgery), DNB (Ortho)",
+      "sourcePage": 9,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ranjit Chakraborti",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO DNB (Obs & Gynae), MRCOG (UK), CCST (UK)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Kusagradhi Ghosh",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD, DNB, MRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Basudeb Mukherjee",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, FRCOG, FICS",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "10am- 2pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 2pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ayesha Chaudhury",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, MD (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Soma Datta",
+      "department": "Obs & Gynae",
+      "printedQualification": "MS (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Lahori Roy",
+      "department": "Obs & Gynae",
+      "printedQualification": "DNB, MS (Obs & Gynae), MRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Arghya Maitra",
+      "department": "Obs & Gynae",
+      "printedQualification": "MS (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Basab Mukherjee",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD, FRCOG (London), FICOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jhuma Hazra",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pallab Gangopadhyay",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, MRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pervinder Kaur",
+      "department": "Obs & Gynae",
+      "printedQualification": "MS (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pushan Kundu",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD (Obs & Gynae ), DNB, FRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sadhan Dutta",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, MD, MRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Sarbani Ghosh",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, FRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sareeha Abubaker",
+      "department": "Obs & Gynae",
+      "printedQualification": "DMRT, DGO, MD",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Shashi Jindel",
+      "department": "Obs & Gynae",
+      "printedQualification": "MS (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Suparna Chowdhuri",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sushma Agarwal",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Prosenjit Sarkar",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, MS (Obs & Gynae)",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Aindrila Basu",
+      "department": "Obs & Gynae",
+      "printedQualification": "MD, MRCOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pronab Dasgupta",
+      "department": "Obs & Gynae",
+      "printedQualification": "DGO, MD, MRCOG, FRCOG, FACOG",
+      "sourcePage": 10,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Prasenjit Chatterjee",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "DMRT, MD, DNBR",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sumantra Ray",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "DNB",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Sreya Mallik",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD, DM (Medical Oncology) - Medical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "10 am- 2 pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2 PM - 4 PM",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2 PM - 6 PM",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10 AM - 2 PM",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Ap- point- ment",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "12 PM - 4 PM",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ringta Mukherjee",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD (Radiotherapy), DMCW - Clinical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "By Ap- point- ment",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "10 AM - 12 PM",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10 AM - 12 PM",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Sunny Khanna",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MS (General Surgery), DNB (Surgical Oncol- ogy) - Surgical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "2 PM - 4 PM",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Tuesday",
+            "Wednesday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "2 PM - 4 PM",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2 PM - 5 PM",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "17:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Ap- point- ment",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Manish Tiwari",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "BDS, MDS (Oral & Maxillofacial Surgery) - Head-Neck Surgical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "By Ap- point- ment",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "12 PM - 2 PM",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12 PM - 2 PM",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "10 AM - 12 PM",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jyotirup Goswami",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD (Radiotherapy), DNB (Radiotherapy) - Clinical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "10 AM - 2 PM",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "14:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4 PM - 5 PM",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "17:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Abhishek Basu",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD (Radiotherapy), DNB (Radiotherapy) - Clinical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "4 PM - 6 PM",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4 PM - 6 PM",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Arijit Sen",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD (Radiotherapy), DNB (Radiotherapy) - Clinical Oncology",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        },
+        {
+          "printedText": "4 PM - 6 PM",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Ashish Upadhyay",
+      "department": "Oncology & Oncosurgery",
+      "printedQualification": "MD (Radiotherapy), DM (Medical Oncology)",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "4 to 6pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Deep Das",
+      "department": "Neurology",
+      "printedQualification": "DM (Neuro)",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Biman Kanti Roy",
+      "department": "Neurology",
+      "printedQualification": "MD, DNB, DM (Neuro)",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jashodhara Chaudhuri",
+      "department": "Neurology",
+      "printedQualification": "MD (Paed Med), DM (Neuro), MRCPCH (UK)",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Manoj Mahata",
+      "department": "Neurology",
+      "printedQualification": "MD, DM (Neuro)",
+      "sourcePage": 11,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Anupam Golash",
+      "department": "Plastic & Reconstructive Surgery",
+      "printedQualification": "MS, DNB, FRCS (Plastic Surgery)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "10am-12pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr K S Chhajer",
+      "department": "Plastic & Reconstructive Surgery",
+      "printedQualification": "MS, MCh (Plastic Surgery)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr S A Faisal",
+      "department": "Plastic & Reconstructive Surgery",
+      "printedQualification": "MS, MCh (Plastic Surgery)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Arun Achar",
+      "department": "Dermatology",
+      "printedQualification": "MD (AIIMS), DNB (New Delhi)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Shekhar Satyanarayan Halder",
+      "department": "Dermatology",
+      "printedQualification": "MD (Dermatology), FDD",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Nisha Agarwal",
+      "department": "Dermatology",
+      "printedQualification": "MD (Dermatology), DNB (Dermatology)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Soutik Panda",
+      "department": "Critical Care (Intensivist)",
+      "printedQualification": "DNB, IDCCM, IFCCM",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Pushpita Mondal",
+      "department": "Critical Care (Intensivist)",
+      "printedQualification": "MD (Medicine)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Susmita Debnath",
+      "department": "Critical Care (Intensivist)",
+      "printedQualification": "MD (Anaesthesia & CC), IDCCM",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Shazia Gulshan",
+      "department": "Haematooncology",
+      "printedQualification": "DCH, MD, DM (Clinical Haematooncology)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Subham Bhattacharya",
+      "department": "Haematooncology",
+      "printedQualification": "MD (Paed), DM (Clinical Haematooncology)",
+      "sourcePage": 12,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Jayanta Chakraborty",
+      "department": "Endocrinology",
+      "printedQualification": "MD, FRCP (Lond)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Madhurima Vidyarthi",
+      "department": "Endocrinology",
+      "printedQualification": "FRCP (UK)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr R K Saraogi",
+      "department": "Endocrinology",
+      "printedQualification": "MD, DM (Endocrinol- ogy), FICP (FACE)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Semanti Chakraborty",
+      "department": "Endocrinology",
+      "printedQualification": "MD, DM (Endocrinol- ogy, AIIMS), ACE - Endo & Diab (UK)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Ankan Bandyopadhyay",
+      "department": "Pulmonology",
+      "printedQualification": "MD, DM - Pulmo & CCM",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Hindol Dasgupta",
+      "department": "Pulmonology",
+      "printedQualification": "MRCP (UK)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Aneek Roychowdhury",
+      "department": "Paediatric Surgery",
+      "printedQualification": "DNB (Gen Surg), MCh (Paed Surg)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Prafulla Kr Mishra",
+      "department": "Paediatric Surgery",
+      "printedQualification": "MCh, DNB (Paed Surg), MNAMS, FIACA (USA)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Indira Banerjee",
+      "department": "Paediatric Cardiology",
+      "printedQualification": "MD, MRCPCH (UK), DNB, FNB (USA)",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Debasree Gangopadhyay",
+      "department": "Paediatric Cardiology",
+      "printedQualification": "MD, FNB",
+      "sourcePage": 13,
+      "sessions": [
+        {
+          "printedText": "By Appointment",
+          "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "dayInterpretation": "merged_columns_requires_confirmation",
+          "byAppointment": true,
+          "timeRanges": []
+        }
+      ]
+    },
+    {
+      "name": "Dr Kalyan Kr Sarkar",
+      "department": "Urology",
+      "printedQualification": "MS, FRCS (Ed)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Prithwiraj Ghosal",
+      "department": "Urology",
+      "printedQualification": "MS, MRCS (Edin), MCh (Uro-PGIMER)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Anjan Das",
+      "department": "Urology",
+      "printedQualification": "MS (PGI), DNB, MCh (Urology)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Md Jawaid Rahman",
+      "department": "Urology",
+      "printedQualification": "MS, MCh - Urology",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Binayak Sen",
+      "department": "Urology",
+      "printedQualification": "DNB, FRCS, Dip. Uro (UK)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Himadri Pathak",
+      "department": "Urology",
+      "printedQualification": "DNB (Urology), DNB (Gen Surg), MNAMS",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        },
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sujit Kr Sinha",
+      "department": "Urology",
+      "printedQualification": "MS, MCh - Urology",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Rima Mukherji",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "DPM, MRCP-Psychiatry (UK)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Sabyasachi Mitra",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "DPM, DCP, MRCPsych, CCST, FRCPsych(UK)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Friday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Amar Nath Mallik",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "DGO, DPM",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "10am- 12pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "10:00",
+              "end": "12:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dr Amlan Kusum Jana",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "DPM, MD (Psy), MRCPsych (UK)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Wednesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        },
+        {
+          "printedText": "4-6pm",
+          "days": [
+            "Saturday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "16:00",
+              "end": "18:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Devasish Konar",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "MD (Psy)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "8-10am",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "08:00",
+              "end": "10:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Subhabrata Bhakta",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "MD (Psy)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "6-8pm",
+          "days": [
+            "Monday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "18:00",
+              "end": "20:00"
+            }
+          ]
+        },
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Bidita Bhattacharya",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "MSc, Mphil, Ph.D",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Tuesday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        },
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dr Jhuma Basak",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "MIPA (London), MIPS, Ph.D - Psychology",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "2-4pm",
+          "days": [
+            "Thursday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "14:00",
+              "end": "16:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ms Rajyashree Bandyopadhyay",
+      "department": "Psychiatry & Clinical Psychology",
+      "printedQualification": "MA (Psychotherapy)",
+      "sourcePage": 14,
+      "sessions": [
+        {
+          "printedText": "12-2pm",
+          "days": [
+            "Sunday"
+          ],
+          "dayInterpretation": "explicit_column",
+          "byAppointment": false,
+          "timeRanges": [
+            {
+              "start": "12:00",
+              "end": "14:00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

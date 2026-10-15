@@ -1,0 +1,14 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Installed dependencies and generated output
+node_modules/
+dist/
+coverage/
+*.log
+
+# Editor / operating-system output
+.DS_Store
+Thumbs.db

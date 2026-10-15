@@ -1,0 +1,52 @@
+{
+  "name": "mediic",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "test": "node --test tests/*.test.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^1.7.9",
+    "classnames": "^2.5.1",
+    "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.18.1",
+    "fslightbox-react": "^1.7.6",
+    "gsap": "^3.12.5",
+    "jwt-decode": "^4.0.0",
+    "lenis": "^1.1.16",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-animated-progress-bar": "^1.1.2",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.26.1",
+    "react-tabs": "^6.0.2",
+    "recharts": "^2.15.3",
+    "swiper": "^11.1.14"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "http-proxy": "^1.18.1",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.12",
+    "vite": "^5.4.1"
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "hospitals": [
+    {
+      "name": "Woodlands Multispeciality Hospital \u2014 Alipore",
+      "address": "8/5 Alipore Road, Kolkata 700027, West Bengal, India",
+      "addressSourceUrl": "https://www.woodlandshospital.in/",
+      "operatingHours": "",
+      "sourceUrl": "https://www.woodlandshospital.in/",
+      "lastChecked": "2026-10-15",
+      "bookingUrl": "https://userportal.woodlandshospital.in/PatientPortalNewUI/Appointment/NewAppointmenIndex",
+      "directoryScope": "Selected publicly listed doctors across four specialties; this is not a complete hospital directory. These records do not establish Zoi booking integration.",
+      "notes": "Official webpages reviewed on 15 October 2026. Individual consultant shifts and general OPD hours are not verified here. The emergency department describes round-the-clock care; this does not mean all OPDs run 24 hours.",
+      "departments": [
+        {
+          "name": "Cardiology",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Emergency & Trauma Care",
+          "hours": "Emergency care is published as available round the clock; not general OPD hours.",
+          "sourceUrl": "https://www.woodlandshospital.in/emergency-trauma",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "GI & Minimal Access Surgery",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "General Medicine",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Kidney Care",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Mother and Child Care",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Orthopaedics",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Paediatrics and Neonatology",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Robotic Surgery",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Urology",
+          "hours": "",
+          "sourceUrl": "https://www.woodlandshospital.in/",
+          "lastChecked": "2026-10-15"
+        }
+      ],
+      "doctors": [
+        {
+          "name": "Dr Kisor Kumar Sinha",
+          "department": "Cardiology",
+          "specialty": "Cardiology",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/cardiac-department",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Hema Malathi Rath",
+          "department": "Cardiology",
+          "specialty": "Cardiology",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/cardiac-department",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Sunil Baran Roy",
+          "department": "Cardiology",
+          "specialty": "Cardiology",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/cardiac-department",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Biswajit Ghosh Dastidar",
+          "department": "General Medicine",
+          "specialty": "General Medicine",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/internal-medicine-excellence",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Dhruba Bhattacharyya",
+          "department": "General Medicine",
+          "specialty": "General Medicine",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/internal-medicine-excellence",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Kundan Chaurasia",
+          "department": "General Medicine",
+          "specialty": "General Medicine",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/internal-medicine-excellence",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Abhijit Bandyopadhyay",
+          "department": "Orthopaedics",
+          "specialty": "Orthopaedics and Joint Replacement",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/bone-joint",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Abhirup Maulik",
+          "department": "Orthopaedics",
+          "specialty": "Orthopaedics and Joint Replacement",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/bone-joint",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Jayanta Basu",
+          "department": "Kidney Care",
+          "specialty": "Nephrology",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/kidney-care",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Lalit Kumar Agarwal",
+          "department": "Kidney Care",
+          "specialty": "Nephrology",
+          "shifts": "",
+          "sourceUrl": "https://www.woodlandshospital.in/kidney-care",
+          "lastChecked": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "name": "Fortis Hospital Anandapur \u2014 Kolkata",
+      "address": "730 Eastern Metropolitan Bypass, Anandapur, East Kolkata Township, Kolkata 700107, West Bengal, India",
+      "addressSourceUrl": "https://www.fortishealthcare.com/international-patients/hospitals/international-hospitals-limited-member-ihh-healthcare",
+      "operatingHours": "",
+      "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+      "lastChecked": "2026-10-15",
+      "bookingUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+      "directoryScope": "Selected publicly listed doctors and specialties for the Anandapur branch. Not the Fortis Hospital & Kidney Institute branch, and not a complete consultant list.",
+      "notes": "Official webpages reviewed on 15 October 2026. Individual consultant shifts and general OPD opening hours are not verified here. Emergency services are published as 24-hour; outpatient consultations require separate confirmation. No live hospital booking integration is established.",
+      "departments": [
+        {
+          "name": "Cardiac Sciences",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Neurology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Neurosurgery",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Internal Medicine",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Gastroenterology and Hepatobiliary Sciences",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Orthopaedics",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Pulmonology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Nephrology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Urology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Oncology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "ENT",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Diabetology/Endocrinology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Paediatrics",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Obstetrics and Gynaecology",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "General Surgery",
+          "hours": "",
+          "sourceUrl": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Emergency and Trauma",
+          "hours": "Emergency services are published as available 24 hours; this does not imply all OPDs are open.",
+          "sourceUrl": "https://www.fortishealthcare.com/lp/fortis-hospital-anandapur-leading-multispecialty-hospital-kolkata",
+          "lastChecked": "2026-10-15"
+        }
+      ],
+      "doctors": [
+        {
+          "name": "Dr Amit Haldar",
+          "department": "Neurology",
+          "specialty": "Neurology",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Basabbijay Sarkar",
+          "department": "Internal Medicine",
+          "specialty": "Internal Medicine",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Debasis Datta",
+          "department": "Gastroenterology and Hepatobiliary Sciences",
+          "specialty": "Gastroenterology",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Dibyendu Mukherjee",
+          "department": "Internal Medicine",
+          "specialty": "Internal Medicine",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr G. R. Vijay Kumar",
+          "department": "Neurosurgery",
+          "specialty": "Neurosurgery",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Kayapanda Muthana Mandana",
+          "department": "Cardiac Sciences",
+          "specialty": "Cardiothoracic and Vascular Surgery",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Raj Kalyan Gopala Krishna",
+          "department": "Urology",
+          "specialty": "Urology",
+          "shifts": "",
+          "sourceUrl": "https://www.fortishealthcare.com/doctors/hospital/fortis-hospital-anandpur-kolkata",
+          "lastChecked": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "name": "IPGME&R and SSKM Hospital \u2014 Kolkata",
+      "address": "244 A. J. C. Bose Road, Kolkata 700020, West Bengal, India",
+      "addressSourceUrl": "https://ipgmer.gov.in/contact",
+      "operatingHours": "",
+      "sourceUrl": "https://ipgmer.gov.in/",
+      "lastChecked": "2026-10-15",
+      "bookingUrl": "https://ipgmer.gov.in/opd-schedule",
+      "directoryScope": "Selected departments and four specialty-clinic listings from the official hospital website; not a complete faculty or OPD roster. Public hospital selected by the user.",
+      "notes": "Public webpages reviewed on 15 October 2026. The specialty-clinic page does not state a schedule publication or revision date. Its schedules require hospital confirmation before visiting. Its 09:00\u201314:00 default applies to specialty-clinic OPD sessions unless otherwise stated, not every hospital service. Doctor shifts below describe only the named clinic sessions. Zoi does not issue official SSKM OPD tickets.",
+      "departments": [
+        {
+          "name": "Cardiology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Medicine",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "ENT",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Surgery",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dermatology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Endocrinology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Urology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Nephrology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Plastic Surgery",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Gastroenterology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Neonatology",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Paediatric Medicine",
+          "hours": "",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        }
+      ],
+      "doctors": [
+        {
+          "name": "Dr Dipetendra K. Sarkar",
+          "department": "Surgery",
+          "specialty": "Breast clinic",
+          "shifts": "Breast clinic: Thursday 11:00\u201313:00; Ronald Ross Building, fifth floor. Published webpage schedule; reconfirm with hospital.",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Dipankar Gupta",
+          "department": "Paediatric Medicine",
+          "specialty": "Paediatric Neurology clinic",
+          "shifts": "Paediatric Neurology clinic: Friday 13:00\u201315:30; Paediatric OPD, Room 8. Published webpage schedule; reconfirm with hospital.",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Rakesh Mondal",
+          "department": "Paediatric Medicine",
+          "specialty": "Paediatric Rheumatology clinic",
+          "shifts": "Paediatric Rheumatology clinic: Saturday 10:30\u201313:00; Paediatric OPD, Room 8. Published webpage schedule; reconfirm with hospital.",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        },
+        {
+          "name": "Dr Sujay Ghosh",
+          "department": "Endocrinology",
+          "specialty": "Thyroid Nodule clinic",
+          "shifts": "Thyroid Nodule clinic: Tuesday 15:00\u201317:00; Main Block, ground floor. Published webpage schedule; reconfirm with hospital.",
+          "sourceUrl": "https://ipgmer.gov.in/specialclinics",
+          "lastChecked": "2026-10-15"
+        }
+      ]
+    }
+  ]
+}
