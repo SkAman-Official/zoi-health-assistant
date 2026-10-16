@@ -41,7 +41,7 @@ function getChatConfig(env = process.env) {
   const providers = {
     gemini: {
       apiKey: env.GEMINI_API_KEY?.trim(),
-      model: env.GEMINI_MODEL?.trim() || "gemini-2.0-flash-lite",
+      model: env.GEMINI_MODEL?.trim() || "gemini-3.5-flash-lite",
       endpoint: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
       timeoutMs: 25000
     },
